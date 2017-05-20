@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">听天由命</string>
+    <string name="choices_frame_2">2选1</string>
+    <string name="customized_help_txt">点击此处，即可输入你自定义的抉择。\n首先，决定你需要几个可选答案。然后，点击‘N选1’并命名问题。\n其次，点击‘在此输入’，填写每个答案；\n最后，点击‘开转’，保存并开始转动。如果仅希望保存该自定义问题时，点击“保存”即可。</string>
+    <string name="choices2_help_txt">2选1和3选1，可让你快速地做出抉择。你只需要点击，指针就会自动转动并转停。</string>
+    <string name="load_help_txt">点击‘加载’后，进入所有你保存的问题。可在“加载详情”中，修改可选答案，或删除问题。</string>
+    <string name="setting_help_txt">自定义背景、图像以及指针设置。</string>
+    <string name="hint_subject">填写问题与选择，按“开转”启动旋转\n\t\t\t\t\t\t\t\t\t\t\t或 \n仅按键“保存”。</string>
+    <string name="hint_choices">在此输入</string>
+</resources>
