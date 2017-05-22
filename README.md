@@ -8,5 +8,4 @@
 
 ![image](https://github.com/sallyQin/UpToGod/raw/master/app/src/main/res/drawable/readme_display.gif)
 ![image](https://github.com/sallyQin/UpToGod/raw/master/app/src/main/res/drawable/sample1.jpg)
-![image](https://github.com/sallyQin/UpToGod/raw/master/app/src/main/res/drawable/sample5.jpg)
 ![image](https://github.com/sallyQin/UpToGod/raw/master/app/src/main/res/drawable/sample6.jpg)
